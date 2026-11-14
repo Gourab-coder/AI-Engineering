@@ -1,0 +1,30 @@
+
+# Jupyter Notebook Support
+jupyter
+notebook
+ipykernel
+ipywidgets
+
+# Data Manipulation
+numpy
+pandas
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Statistical Analysis
+scipy
+statsmodels
+
+# Machine Learning
+scikit-learn
+
+# File Handling
+openpyxl
+xlrd
+
+# Utilities
+tqdm
+joblib
